@@ -21,7 +21,7 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 
 - June first 2 weeks
    - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
+   - link all contributors to correct circles
    - make sure contributors understand what their role is
  - tbd
 
