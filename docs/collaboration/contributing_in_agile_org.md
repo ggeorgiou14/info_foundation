@@ -5,7 +5,7 @@
 
 We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 
-Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Ofcourse not every contributor is the same.
+Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Of course not every contributor is the same.
 
 Information flow and discipline is very important in such an organization.
 
@@ -26,9 +26,9 @@ We grately appreciate any contribution done.
 
 Some examples of what we are looking for
 
-- leads of people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
+- lead people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
 - help us organize an event for Token or Grid promotion.
-- technical feedback on the technology we have created
+- technical feedback on the technology we have created.
 - other feedback on any of the things we do.
 
 Do not hesitate to contact us through our foundation website, we will try to help you and find an Ambassador or Founder who you can work with. This Ambassador knows where to find information, knows who is doing what, knows how to get things done basically in the ThreeFold ecosystem.
@@ -45,7 +45,7 @@ The main tool are our circles, please look at our [circles](circles.md) and see 
 
 We realize we ask a lot from our Ambassadors but we believe it is a must to be effective.
 
-In case this is too much please work with any of our Ambassadors who will glady help you and be at service of you to make you successful as a ThreeFold Sponsor.
+In case this is too much, please work with any of our Ambassadors who will glady help you and be at your service to make you successful as a ThreeFold Sponsor.
 
 you are willing to:
 
@@ -56,8 +56,8 @@ you are willing to:
 - use our agile tools and get fluent with them
 - learn how to create/use [story cards]((stories.md) (its an art by itself)
     - report on the work done in the stories and always help to keep the stories up to date
-- not be afraid to be 100% open to everyone about anything
-- not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay off to try to be perfect.
+- not be afraid to be 100% open with everyone about anything
+- not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay to try to be perfect.
 - keep all your work open, when you start working on something make sure everyone else can follow the process, don't first create and then contribute, it's much better to have your work accessible while you improve (e.g. a google document, or multiple iterations of markdown documents).
 - deliver work which is good enough
     - not perfect (see above) but good enough to achieve the requirements as mentioned in story card.
@@ -103,7 +103,7 @@ A ThreeFold Founder understands and endorses:
 
 ## ThreeFold Coordinator 
 
-A coordinator is owner of one or more circles.
+A coordinator is an owner of one or more circles.
 
 A coordindator is a TF Founder who also has coordination and communication skills and likes to be at service of others in helping them to collaborate and to grow.
 
@@ -129,7 +129,7 @@ A coordinator:
   - they help people to become a better contributor
   - are able to explain why agile principles work so well within an organization like ours
 
-The Foundation only allows TF Founders to become TF Coordinators, ofcourse everyone can become a ThreeFold Founder if they are willing to live the values as defined above.
+The Foundation only allows TF Founders to become TF Coordinators, of course everyone can become a ThreeFold Founder if they are willing to live the values as defined above.
 
 My personal estimate is that less than 1% of existing professionals have the skill to be a good TF Coordinator, its not an easy job.
 
@@ -158,7 +158,7 @@ responsibilities
 - vote when changes in management structure of the Foundation are required
 - vote on future to be defined items 
 
-we don't expect these Guardians to do anything more than this. Its a super important role but does not require much time.
+we don't expect these Guardians to do anything more than this. It's a super important role but does not require much time.
 
 remarks
 
